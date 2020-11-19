@@ -4,6 +4,8 @@ Alfred workflow for R
 
 ## Installation
 
+Download the latest version of `r.alfredworklow` from the GitHub release page
+
 ## Command Description
 
 ### `r cran *`
