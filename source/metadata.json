@@ -4,7 +4,7 @@
     "readme" : "",
     "createdby" : "Patrick Schratz",
     "downloadurl" : "",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "bundleid" : "pat-s.r",
     "description" : "R workflow for Alfred",
     "name" : "R",
