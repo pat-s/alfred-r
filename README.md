@@ -4,7 +4,8 @@ Alfred workflow for R
 
 ## Installation
 
-Download the latest version of `r.alfredworklow` from the GitHub release page
+Download the latest version of `r.alfredworklow` from the [GitHub release page](https://github.com/pat-s/alfred-r/releases/tag/1.0.2).
+(Auto-updating is not yet supported)
 
 ## Command Description
 
