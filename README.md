@@ -1,3 +1,5 @@
+# MIGRATED: https://codefloe.com/pat-s/alfred-r
+
 # alfred-r
 
 Alfred workflow for R
